@@ -22,3 +22,5 @@ Prerequisites
 Node.js (version 14 or higher)
 MongoDB (local or remote instance)
 npm (Node package manager)
+DEMO 
+https://vercel.com/palak-mahalgamaiyas-projects/mern-stack-restaurant-6deg
